@@ -1,5 +1,4 @@
 # 💼 Swiggy Customer Retention Case Study
-https://github.com/rohitnair-ba/Swiggy-Retention-Case-Study/blob/main/images/01-%20project-preview.png
 
 ## 📌 Overview
 
