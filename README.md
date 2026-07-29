@@ -1,5 +1,4 @@
 # 💼 Swiggy Customer Retention Case Study
-![Project Preview](images/01-project-preview.png)
 
 ## 📌 Overview
 
