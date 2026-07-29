@@ -1,4 +1,5 @@
 # 💼 Swiggy Customer Retention Case Study
+![Swiggy Case Study Banner](images/swiggy-cover-banner.png)
 
 ## 📌 Overview
 
